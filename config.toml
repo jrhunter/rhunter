@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Rob Hunter"
 theme = "hugo-notepadium"
 description = "Rob Hunter's website"
-copyright = "© 2020 Rob Hunter text"
+copyright = "© 2020 Rob Hunter. [Some rights reserved](https://www.gnu.org/licenses/gpl-3.0.en.html)."
 
 buildDrafts = false
 

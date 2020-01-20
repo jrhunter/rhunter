@@ -3,6 +3,7 @@ title = "Switching to Octopress"
 date = "2012-04-12"
 slug = "2012/04/12/switching-to-octopress"
 Categories = []
+draft = true
 +++
 
 [I](http://jroberthunter.com) recently switched from using WordPress to power my personal blog to <a href="http://octopress.org/">Octopress</a>, and my only regret is not switching sooner. Unlike WordPress, MoveableType, or other CMSes, Octopress doesn't require any MySQL processes running in the background, or futzing about with databases. It's a wrapper for <a href="http://jekyllrb.com/">Jekyll</a>, which is a <a href="http://www.ruby-lang.org/en/">Ruby</a> framework for generating blogs as static websites, which are secure, simple and fast.

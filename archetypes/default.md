@@ -5,12 +5,11 @@ lastmod = {{ .Date }}
 tags = []
 categories = []
 imgs = []
-readingTime = true  # show reading time after article date
+readingTime = false  # show reading time after article date
 toc = true
 comments = false
 justify = false  # text-align: justify;
 single = false  # display as a single page, hide navigation on bottom, like as about page.
 license = ""  # CC License
-draft = true
+draft = false
 +++
-

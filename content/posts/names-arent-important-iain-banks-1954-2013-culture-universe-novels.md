@@ -3,15 +3,16 @@ title = "Iain (M.) Banks, 1954–2013"
 date = "2013-06-17"
 slug = "2013/06/17/names-arent-important-iain-banks-1954-2013-culture-universe-novels"
 Categories = []
+draft = true
 +++
 
-#Names Aren't Important: A Panegyric for the Culture
+# Names Aren't Important: A Panegyric for the Culture
 
 Walter Benjamin, [On the Concept of History](http://www.marxists.org/reference/archive/benjamin/1940/history.htm):
 > According to Fourier, a beneficent division of social labor would have the following consequences: four moons would illuminate the night sky; ice would be removed from the polar cap; saltwater from the sea would no longer taste salty; and wild beasts would enter into the service of human beings. All this illustrates a labor which, far from exploiting nature, is instead capable of delivering creations whose possibility slumbers in her womb.
 
 
-##I. Background
+## I. Background
 Iain Banks was deservedly popular in the UK (and, later, the US) for his mainstream (or "non-genre") fiction. *The Wasp Factory*, his debut novel, was one of my favorite novels when I was a kid. I battened onto its skeptical explorations of religion, social conventions, and sanity as only an awkward teenager could, and its gritty and ambiguous exploration of gender fluidity was a revelation. (In fact one of Banks' most enduring contributions to modern science fiction, I think, was his quiet insistence that fluidities and ambiguities of gender and sexuality are so banal, so utterly beyond the scope of criticism of debate, that the conservatives and reactionaries who insist on gender essentialism are self-refuting in their belligerent atavism; and he is almost alone in science fiction in describing a fictional society -- the Culture, about which more below -- that *insists* on allowing its citizens the freedom to select, sharpen, or ambiguate their genders in whichever way and however often they choose.) *The Bridge*, *The Crow Road*, and *A Song of Stone* secured Banks' reputation. To his bibliography we can also add Banks' significant public persona as a wry but sincere voice for Scottish independence and for the fundamental decency of a welfare state that provided for its citizens without asking them to justify their need. For this particular reader, though, Banks will always be the Guy Who (as Iain **M.** Banks) Wrote the Culture Novels. In what follows I attempt to elaborate on the Culture's importance and appeal as an idea and as a lesson for readers, for writers, and for anyone who hopes for a better-formed society than a congeries of atomized egotists.
 
 ##II. The Culture

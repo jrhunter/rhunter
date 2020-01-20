@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.62.2" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>dwm: a tutorial for beginners&nbsp;&ndash;&nbsp;Rob Hunter</title><link rel="stylesheet" href="/css/core.min.83a471e4ce4ddaf77a998059eb37815d7e35fb8a8a1450c297d550fbb0fc2844befea591f34ce34a4a464c81d01dd0ba.css" integrity="sha384-g6Rx5M5N2vd6mYBZ6zeBXX41&#43;4qKFFDCl9VQ&#43;7D8KES&#43;/qWR80zjSkpGTIHQHdC6"><body>
+    <div class="base-body"><section id="header" class="site header max-body-width">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Rob Hunter</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/writing">Writing</a><a class="nav item" href="/about">About</a></nav></div></span></div></section><div id="content" class="max-body-width"><section class="article header">
+    <h1 class="article title">dwm: a tutorial for beginners</h1><p class="article date">Tuesday, April 17, 2012</p></section><article class="article markdown-body"><p>This tutorial explains how to install, set up, and customize <a title="dwm" href="http://dwm.suckless.org/" target="_blank"><strong>dwm</strong></a>. <strong>dwm</strong> is a window manager for <a title="X.Org" href="http://www.x.org/" target="_blank"><strong>X</strong></a> and the forerunner to <a title="XMonad" href="http://xmonad.org/" target="_blank"><strong>xmonad</strong></a> and <a title="awesome" href="http://awesome.naquadah.org/" target="_blank"><strong>awesome</strong></a>, among others. As a tiling window manager, it automatically creates, adjusts, and moves windows for you so that you can focus on being productive. This means that it's equally useful whether you're using multiple large displays or a small netbook screen; it's also stable and consumes little by way of system resources. <strong>dwm</strong> is hard to beat in terms of staying out of the way of the user and making the most of however much display real estate is available. Setting it up, however, is somewhat trickier &ndash; hence this tutorial.</p>
+<p><strong>i. background</strong></p>
+<p>A window manager (WM) is not a desktop environment. Examples of the latter include the <strong>GNOME</strong> and <strong>KDE</strong> environments for Linux, FreeBSD, etc.; these are fully-featured user interfaces that compete with the user interfaces of OS X, Windows, and so on. As such, they allow the user to control and access many of the features of the operating system through graphical control panels, dialogs, and other visually appealing (but computationally expensive) applications and widgets.</p>
+<p>Standalone WMs, however, are more minimalistic. They don't have as many of the graphical components or shininess of a <strong></strong>desktop manager, but they make up for that with speed, simplicity, and security. Additionally, a <a href="http://en.wikipedia.org/wiki/Tiling_window_manager" target="_blank">tiling</a> WM like <strong>dwm</strong> can automatically handle window arrangement and sizing, so that the user can focus on getting tasks done rather than fighting against the interface.</p>
+<p>No WM better illustrates the core strengths of this approach than <strong>dwm</strong>. It's fast, intuitive, and has a tiny system footprint. However, setting it up is a somewhat different procedure than simply installing a binary from a repository. (In some distros, you can download a precompiled binary package, but you won't be able to customize it.) You have to build your own binary from source, but don't worry &ndash; it's easier than it sounds.</p>
+<p><strong>ii. building and installing dwm</strong></p>
+<p>First, open up a terminal, using an emulator like <strong>GNOME Terminal</strong> or <a href="https://launchpad.net/sakura" target="_blank"><strong>sakura</strong></a>. Use <strong>apt-get</strong> to get the utilities that will be necessary to build and run <strong>dwm</strong> (this tutorial assumes you're using <a title="Debian" href="http://www.debian.org/" target="_blank">Debian</a> or <a title="Ubuntu is based on Debian" href="http://www.ubuntu.com/" target="_blank">Ubuntu</a>; other distros such as <a title="Arch ABS" href="https://wiki.archlinux.org/index.php/Arch_Build_System" target="_blank">Arch Linux</a> have their own utilities for retrieving source packages, but the principle is the same). Issue the following command:</p>
+<pre>$ sudo apt-get install build-essential suckless-tools rxvt-unicode</pre>
+<p>Download the <strong>dwm</strong> source using <strong>apt-get</strong>'s <strong>source</strong> argument. Issue the following command from within your normal user home folder (note that you should <em>not</em> use superuser privileges &ndash; e.g., <em>don't</em> use <strong>sudo</strong>):</p>
+<pre>$ apt-get source dwm</pre>
+<p><strong>apt-get</strong> will download and unpack the source packages into a folder called <strong>~/dwm-X.X</strong> (where X.X stands for the version number&ndash;6.0 is the release currently available at suckless.org, but most Debian and Debian-derived distros such as Ubuntu still ship 5.8.x, which is more stable.). Navigate to the new directory:</p>
+<pre>$ cd dwm*</pre>
+<p>Within the <strong>~/dwm-X.X</strong> directory, there is a file, <strong>config.def.h</strong>, which contains the default settings for <strong>dwm</strong>. Rather than edit it directly, we will create our own custom header file, called <strong>config.h</strong>:</p>
+<pre>$ cp config.def.h config.h</pre>
+<p>Let's take a look inside config.h. We're not going to change anything yet, though. (Note: I'm using <strong>vim</strong>, but use whatever editor you're comfortable with: <strong>nano</strong>, <strong>gedit</strong>, etc.)</p>
+<pre> $ vim config.h</pre>
+<p>You should see a few dozen lines of code. config.h is a C header file which contains the defaults for various aspects of dwm's behavior. For example, the line</p>
+<pre>static const char *tags[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9" };</pre>
+<p>contains the names of the &ldquo;tags&rdquo; (analogous to workspaces) that <strong>dwm</strong> will use; the line</p>
+<pre>static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, "-nf", normfgcolor, "-sb", selbgcolor, "-sf", selfgcolor, NULL };</pre>
+<p>contains the settings for <strong>dmenu</strong>, a program launcher that is included in the <strong>suckless-tools</strong> package that we installed earlier.</p>
+<p>We will change some settings later, but for now let's build and install <strong>dwm</strong> to make sure that everything is as it should be. From within the directory that the <strong>dwm</strong> source files were unpacked to, e.g. <strong>dwm-6.0</strong>, issue the following command:</p>
+<pre>$ sudo make clean install</pre>
+<p><strong>make</strong> will then output several lines telling you what it's doing; the last four should read as follows:</p>
+<pre>CC dwm.c
+CC -o dwm
+installing executable file to /usr/local/bin
+installing manual page to /usr/local/share/man/man1</pre>
+<p>These indicate that the C compiler has successfully created a binary executable file, called <strong>dwm</strong>, which has been installed to <strong>/usr/local/bin</strong>; a <strong>man</strong> (manual) file has also been created. Congratulations &ndash; you just built <strong>dwm</strong> from source!</p>
+<p>So now we can log out and start <strong>dwm</strong>, right? Well, not yet.*<strong></strong> In order to start <strong>dwm</strong> from the graphical menu that your display manager shows after you boot up your computer, we'll need to create two new files. First, we'll create a menu entry for the desktop manager, in the <strong>/usr/share/xsessions/</strong> directory:</p>
+<pre>$ sudo vim /usr/share/xsessions/user-session.desktop</pre>
+<p>with the following contents:</p>
+<p>{% codeblock user-session.desktop lang:sh %}
+[Desktop Entry]
+Encoding=UTF-8
+Name=WM from xsession script
+Comment=Runs the window manager defined by xsession script
+Exec=/etc/X11/Xsession
+Type=Application
+{% endcodeblock %}</p>
+<p>This will create a new menu entry in your display manager. Attempting to log in using this entry means that your DM will look for a user-created Xsession script, so let's create one:</p>
+<pre>$ vim ~/.xsession</pre>
+<p>Here is a simple Xsession script to get you started:</p>
+<p>{% codeblock .xsession lang:bash %}
+#!/bin/bash</p>
+<p>xrdb -merge .Xresources</p>
+<p>if [ -x /usr/bin/xfce4-power-manager ] ; then
+sleep 1
+xfce4-power-manager &amp;
+fi</p>
+<p>while true; do
+xsetroot -name &ldquo;$( date + &ldquo;%F %I:%M %p&rdquo; )&rdquo;
+sleep 10
+done &amp;</p>
+<p>exec dwm
+{% endcodeblock %}</p>
+<p>This script imports any special settings you have specified in an .Xresources file (if you haven't, you can comment out the second line of the .Xsession script), checks to see if the power manager is running (and if it isn't, starts it), uses the <strong>xsetroot</strong> command to display and refresh the date and time every ten seconds, and then finally starts <strong>dwm</strong>. (Note that I'm using <strong>xfce4-power-manager</strong>, but you should be able to use <strong>gnome-power-manager</strong>, etc., as well.)</p>
+<p>We're now ready to log out of our desktop environment (e.g., <strong>GNOME</strong>), and log into <strong>dwm</strong>! (Remember to select the &ldquo;WM from xsession script&rdquo; menu entry.) You'll see a blue screen with a gray bar on top. The gray bar is your status bar, indicating the tags (workspaces) and active windows; on the right you'll see the date and time, thanks to the settings in your Xsession script. Use the <a title="dwm tutorial" href="http://dwm.suckless.org/tutorial" target="_blank">tutorial</a> at suckless.org to get comfortable with launching programs using dmenu, manipulating the window layout, switching between tags, etc.</p>
+<p><strong>iii. customizing dwm</strong></p>
+<p>Now we can start making further customizations to <strong>dwm</strong>. Open up the <strong>config.h</strong> file in your dwm-X.X directory, e.g. <strong>~/dwm-6.0/config.h</strong>, and start changing the default values to better suit your needs. Here is an example config.h with a few changes:</p>
+<pre><code>
+</code></pre>
+<p>Most of the settings are similar to those of the default configuration, with some changes to the names of the workspaces, a different terminal emulator (I prefer <a title="rxvt-unicode" href="http://software.schmorp.de/pkg/rxvt-unicode.html" target="_blank"><strong>urxvt</strong></a> or <strong>sakura</strong>, but <strong>gnome-terminal</strong> is fine too), and a change to the way that <strong>dwm</strong> handles the size of terminal windows, so that no gaps appear at the edge of the screen. It also changes the MODKEY setting from Mod1 (&ldquo;Alt&rdquo; on most keyboards) to Mod4 (usually, the &ldquo;Windows&rdquo; key), in order to avoid conflicts with keyboard commands in other programs. For more guidance on how to customize dwm, check out the <a title="customizing dwm" href="http://dwm.suckless.org/customisation/" target="_blank">guides</a> at suckless.org. Some additional changes that I often make include changing the border width to 0 and prioritizing the monocle display over tile; this creates a more elegant setup on a netbook, for example. For even more changes, you can try your hand at <a title="dwm patches" href="http://dwm.suckless.org/patches/" target="_blank">patching</a> (which is a bit more advanced and outside the scope of this tutorial).</p>
+<p>Congratulations! You've finished setting up a customized, built-from-source installation of <strong>dwm</strong>! Comments are open if you have questions or suggestions.</p>
+<p>*<strong>dwm</strong> is a WM for <strong>X</strong> &ndash; meaning that it would be launched by starting <strong>X</strong> from TTY with the <strong>startx</strong> command and a properly configured <strong>.xinitrc</strong> file. If you know how to do that, though, you likely do not need this guide; and anyway, it's far more common now for Linux distros to automatically configure at least one desktop manager such as <strong>gdm</strong> or <strong>kdm</strong>. (This guide assumes you're using <strong>gdm</strong> or <strong>gdm3</strong>, but there should be no real difference if you're using <strong>kdm</strong>).</p>
+<p>(A special thank-you to the fine folks at <a title="suckless" href="http://dwm.suckless.org" target="_blank">suckless.org</a> for their documentation, and, of course, for creating and maintaining <strong>dwm</strong>!)</p>
+</article><section class="article navigation"><p><a class="link" href="/posts/2012/04/19/another-lesson-on-the-difficulty-of-reconciling-judicial-supremacy-with-democracy/"><span class="li">&larr;</span>Another Lesson on the Difficulty of Reconciling Judicial Supremacy With Democracy</a></p><p><a class="link" href="/posts/2012/04/12/switching-to-octopress/"><span class="li">&rarr;</span>Switching to Octopress</a class="link">
+    </p></section></div><section id="footer" class="footer max-body-width"><div class="footer-wrap">
+    <p class="copyright">© 2020 Rob Hunter</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>

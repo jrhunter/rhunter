@@ -1,0 +1,14 @@
++++
+title = "Judicial Review, Economic Inequality, and the Power of Money"
+date = "2012-06-25"
+slug = "2012/06/25/judicial-review"
+Categories = []
++++
+
+Earlier today [the Supreme Court](http://www.supremecourt.gov/opinions/11pdf/11-1179h9j3.pdf) refused, in a 5-4 party line vote, to reconsider [*Citizens United*](http://en.wikipedia.org/wiki/Citizens_United_v._Federal_Election_Commission) and [struck down](http://www.nytimes.com/2012/06/26/us/supreme-court-declines-to-revisit-citizens-united.html?_r=1&hp) a century-old Montana law regulating corporate spending in state elections. You can [read all about](http://balkin.blogspot.com/2012/06/citizens-united-redux-or-what-democracy.html) [the gory details](http://electionlawblog.org/?p=36136) elsewhere (it's worth noting that the ruling [might not be that much of a setback](http://electionlawblog.org/?p=36150) to proponents of campaign finance reform); but here are my two cents:
+
+First, the Court simply assumed its own facts and basically ignored the Montana legislature's findings of fact. The incredibly compressed reasoning of the majority seems to come down to this: "The ruling in *Citizens United* applies in this case; despite what the Montana Supreme Court may say, *we* say that this case is not meaningfully different, and therefore Montana may not limit corporate campaign contributions." Much like in the oral arguments in which the justices considered the Affordable Care Act, several of the Court's conservative justices suppose themselves to be policy experts and are apparently uninterested in deferring to legislatures.
+
+Second, there is the possibility, at least, that this case may help to galvanize a counter-mobilization against *Citizens United* by linking conservative constitutional principles---in this case, the authority of state legislatures, or ["states' rights"](http://en.wikipedia.org/wiki/States_rights)---to the cause of campaign finance reform. A quick glance at the various online redoubts of right-wing activism suggests that many movement conservatives are cheering the majority's decision, but I wonder about the extent to which they are simply closing ranks with co-partisans. At any rate, the state of Montana may make for a more sympathic protagonist in the fight against corporate "speech" sanctioned by the Supreme Court.
+
+Finally, political scientist [Henry Farrell's take](http://crookedtimber.org/2012/06/25/lessigs-republic-lost/) on the broader problems that are limned by this case is well worth reading; I tend to agree with him that deeping economic inequality coupled with an increasingly formal---not to say literal---reading of freedom has the practical consequence of further empowering the wealthy and depriving the increasingly numerous poor of any real political agency. Today's ruling will certainly do nothing to reverse this trend, or to make it any easier for the majority of persons who are *not* corporations to have their voices heard.

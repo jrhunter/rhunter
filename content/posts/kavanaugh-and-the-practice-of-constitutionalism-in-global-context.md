@@ -1,0 +1,20 @@
++++
+title = "Kavanaugh and the Constitutionalization of Politics"
+date = "2018-10-05"
+slug = "2018/10/05/kavanaugh-and-the-practice-of-constitutionalism-in-global-context"
+Categories = []
++++
+
+*A longer version of this essay was posted on [Legal Form](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/) on October 9, 2018.*
+
+(Updated October 7)
+
+Contradiction is the recurring motif in the current Supreme Court nomination battle. Nowhere is this clearer than in the simultaneous magnification and diminution of the trauma of sexual violence. With their insistence that accusers' accounts must be examined closely for any possible defect, and that the accused must never not have our sympathy, conservatives manage both to obsess over sexual assault and to trivialize it. We have been reminded forcefully of patriarchy's enduring demands. It obliges impossible performances of unimpeachable victimhood from survivors who often themselves seem to be in the dock, all while insisting on the hermeneutics of charity and solicitousness for the accused.
+
+A second, rather more banal contradiction ~~is unfolding~~ has unfolded against this backdrop: Brett Kavanaugh's ~~likely~~ elevation to the ranks of the cloistered gerontocrats on the Supreme Court, despite widespread opprobrium and disgust (and in the wake of a sham investigation by an intelligence agency rehabilitated in many liberals' minds as a redoubt of resistance). In confirming Kavanaugh, the Senate ~~is fulfilling~~ fulfilled one of the few remaining major functions of a national legislature under contemporary global constitutionalism. The governing coalition — in the *sui generis* absurdity of the United States, a single party — seeks the entrenchment of its political program through implantation in the judicial, administrative, and bureaucratic organs of the state. A majority-Republican Court is one that will more reliably protect and nurture conservative policies — and endow them with the patina of constitutional legitimacy.
+
+In this respect, at least, constitutional practice in the United States is in alignment with much of the rest of the planet. The constitutional form has conquered the world; most states possess written constitutions, and [courts practicing constitutional review are now common across democratic polities (liberal or otherwise)](http://www.repository.law.indiana.edu/ijgls/vol11/iss1/4?utm_source=www.repository.law.indiana.edu%2Fijgls%2Fvol11%2Fiss1%2F4&utm_medium=PDF&utm_campaign=PDFCoverPages). The practical effect of the judicialization of politics (or, in the case of transnational institutions such as the European Union, the administrativization of politics) is to buffer policy from popular contestation — an increasingly necessary precaution taken on behalf of  measures for which durable mass constituencies cannot reliably be mustered, such as the criminalization of abortion in the U.S. or the imposition of austerity budgets in the E.U.
+
+Constitutions are resistant to change by design. They are meant to reproduce political order by constraining the scope of legitimate conflict. This is not a neutral feature of constitutions. Constitutionalism's historical development is commingled with that of capitalism, and constitutional regimes tend to shield privileged social relations — of production and reproduction — from public power. In the battle over Kavanaugh, conservatives have been clear-sighted and disciplined in their efforts to strengthen that shield. They seek to secure the juridical foundations of an increasingly crisis-ridden regime of accumulation, but they are also unabashed in their determination that the American constitutional order will continue to protect — and be sustained by — the prerogatives of white propertied men.
+
+Kavanaugh's ~~likely~~ confirmation is neither a cause nor a symptom of judicial illegitimacy; it is a textbook example of the constitutionalization (and hence de-democratization) of politics.

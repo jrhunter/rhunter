@@ -16,11 +16,11 @@ draft = false
 +++
 
 
-__Peer-Reviewed__
+# Peer-Reviewed
 
 "[The Digital Turn and the Ethical Turn: Depoliticization in Digital Practice and Political Theory](https://www.boundary2.org/2018/08/hunter/)." [*boundary2 online*](https://www.boundary2.org/2018/08/hunter/). August 2, 2018.
 
-__Essays and Polemics__
+# Essays and Polemics
 
 "[Capital and Climate in the Critique of the State](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/)." [Legal Form](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/). June 6, 2019.
 
@@ -64,7 +64,7 @@ __Essays and Polemics__
 
 "[Waiting for SCOTUS](https://www.jacobinmag.com/2014/06/waiting-for-scotus/)," [*Jacobin*](https://www.jacobinmag.com/2014/06/waiting-for-scotus/), Issue 14 (Spring 2014), 35-40.
 
-__Selected Blog Posts__
+# Selected Blog Posts
 
 "[Worse Regimes](http://rhunter.org/blog/2015/03/30/worse-regimes/)"
 

@@ -22,7 +22,7 @@ draft = false
 
 # Essays and Polemics
 
-(With Nate Holdren) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [Legal Form](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
+(With [Nate Holdren](https://www.drake.edu/lps/facultystaff/nateholdren/)) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [Legal Form](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
 
 "[Capital and Climate in the Critique of the State](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/)." [Legal Form](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/). June 6, 2019.
 

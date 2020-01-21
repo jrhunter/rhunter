@@ -22,6 +22,8 @@ draft = false
 
 # Essays and Polemics
 
+(With Nate Holdren) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [Legal Form](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
+
 "[Capital and Climate in the Critique of the State](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/)." [Legal Form](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/). June 6, 2019.
 
 "[Brett Kavanaugh and the Global Practice of Constitutionalism](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/)." [Legal Form](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/). October 9, 2018.

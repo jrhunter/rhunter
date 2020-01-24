@@ -1,4 +1,4 @@
-# rhunter-hugo
+# rhunter.com source
 
 This is the [Hugo](https://gohugo.io/) source for [rhunter.org](https://rhunter.org), currently using the [Notepadium](https://themes.gohugo.io/hugo-notepadium/) theme.
 

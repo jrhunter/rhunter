@@ -1,13 +1,12 @@
 +++
 title = "Kavanaugh and the Constitutionalization of Politics"
 date = "2018-10-05"
+lastmod = "2018-10-09"
 slug = "2018/10/05/kavanaugh-and-the-practice-of-constitutionalism-in-global-context"
 Categories = []
 +++
 
 *A longer version of this essay was posted on [Legal Form](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/) on October 9, 2018.*
-
-(Updated October 7)
 
 Contradiction is the recurring motif in the current Supreme Court nomination battle. Nowhere is this clearer than in the simultaneous magnification and diminution of the trauma of sexual violence. With their insistence that accusers' accounts must be examined closely for any possible defect, and that the accused must never not have our sympathy, conservatives manage both to obsess over sexual assault and to trivialize it. We have been reminded forcefully of patriarchy's enduring demands. It obliges impossible performances of unimpeachable victimhood from survivors who often themselves seem to be in the dock, all while insisting on the hermeneutics of charity and solicitousness for the accused.
 

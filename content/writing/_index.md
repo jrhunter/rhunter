@@ -7,7 +7,7 @@ tags = []
 categories = []
 imgs = []
 readingTime = false  # show reading time after article date
-toc = true
+toc = false
 comments = false
 justify = false  # text-align: justify;
 single = true  # display as a single page, hide navigation on bottom, like as about page.
@@ -16,25 +16,25 @@ draft = false
 +++
 
 
-# Peer-Reviewed
+### Peer-Reviewed
 
 "[The Digital Turn and the Ethical Turn: Depoliticization in Digital Practice and Political Theory](https://www.boundary2.org/2018/08/hunter/)." [*boundary2 online*](https://www.boundary2.org/2018/08/hunter/). August 2, 2018.
 
-# Essays and Polemics
+### Essays and Polemics
 
-(With [Nate Holdren](https://www.drake.edu/lps/facultystaff/nateholdren/)) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [Legal Form](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
+(With [Nate Holdren](https://www.drake.edu/lps/facultystaff/nateholdren/)) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [_Legal Form_](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
 
-"[Capital and Climate in the Critique of the State](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/)." [Legal Form](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/). June 6, 2019. (Reposted at [MR Online](https://mronline.org/2019/06/15/capital-and-climate-in-the-critique-of-the-state/), June 15, 2019.)
+"[Capital and Climate in the Critique of the State](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/)." [_Legal Form_](https://legalform.blog/2019/06/06/capital-and-climate-in-the-critique-of-the-state-rob-hunter/). June 6, 2019. (Reposted at [_MR Online_](https://mronline.org/2019/06/15/capital-and-climate-in-the-critique-of-the-state/), June 15, 2019.)
 
-"[Brett Kavanaugh and the Global Practice of Constitutionalism](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/)." [Legal Form](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/). October 9, 2018.
+"[Brett Kavanaugh and the Global Practice of Constitutionalism](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/)." [_Legal Form_](https://legalform.blog/2018/10/09/brett-kavanaugh-and-the-global-practice-of-constitutionalism-rob-hunter/). October 9, 2018.
 
-"[Elaborating the Material Constitution](https://legalform.blog/2018/06/30/elaborating-the-material-constitution-a-response-to-marco-goldoni-rob-hunter/)." [Legal Form](https://legalform.blog/2018/06/30/elaborating-the-material-constitution-a-response-to-marco-goldoni-rob-hunter/). June 30, 2018.
+"[Elaborating the Material Constitution](https://legalform.blog/2018/06/30/elaborating-the-material-constitution-a-response-to-marco-goldoni-rob-hunter/)." [_Legal Form_](https://legalform.blog/2018/06/30/elaborating-the-material-constitution-a-response-to-marco-goldoni-rob-hunter/). June 30, 2018.
 
-"[Crises of Constitutionality](https://legalform.blog/2018/02/23/crises-of-constitutionality-rob-hunter/)." [Legal Form](https://legalform.blog/2018/02/23/crises-of-constitutionality-rob-hunter/). February 23, 2018. (Reposted at [Critical Legal Thinking](http://criticallegalthinking.com/2018/03/05/crises-of-constitutionality/), March 5, 2018.)
+"[Crises of Constitutionality](https://legalform.blog/2018/02/23/crises-of-constitutionality-rob-hunter/)." [_Legal Form_](https://legalform.blog/2018/02/23/crises-of-constitutionality-rob-hunter/). February 23, 2018. (Reposted at [_Critical Legal Thinking_](http://criticallegalthinking.com/2018/03/05/crises-of-constitutionality/), March 5, 2018.)
 
-"[Constitutionalism: Appearance, Form, and Content](https://legalform.blog/2017/12/03/constitutionalism-appearance-form-and-content-rob-hunter/)." [Legal Form](https://legalform.blog/2017/12/03/constitutionalism-appearance-form-and-content-rob-hunter/). December 3, 2017.
+"[Constitutionalism: Appearance, Form, and Content](https://legalform.blog/2017/12/03/constitutionalism-appearance-form-and-content-rob-hunter/)." [_Legal Form_](https://legalform.blog/2017/12/03/constitutionalism-appearance-form-and-content-rob-hunter/). December 3, 2017.
 
-"[Marxism and Public Law](https://legalform.blog/2017/10/23/marxism-and-public-law-rob-hunter/)." [Legal Form](https://legalform.blog/2017/10/23/marxism-and-public-law-rob-hunter/). October 23, 2017. (Reposted on the [Verso Books Blog](https://www.versobooks.com/blogs/3462-marxism-and-public-law), October 31, 2017.)
+"[Marxism and Public Law](https://legalform.blog/2017/10/23/marxism-and-public-law-rob-hunter/)." [_Legal Form_](https://legalform.blog/2017/10/23/marxism-and-public-law-rob-hunter/). October 23, 2017. (Reposted on the [Verso Books Blog](https://www.versobooks.com/blogs/3462-marxism-and-public-law), October 31, 2017.)
 
 "[If the US supreme court upholds the Muslim ban, we will need civil resistance](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance)." [*The Guardian*](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance), June 28, 2017.
 
@@ -66,7 +66,7 @@ draft = false
 
 "[Waiting for SCOTUS](https://www.jacobinmag.com/2014/06/waiting-for-scotus/)," [*Jacobin*](https://www.jacobinmag.com/2014/06/waiting-for-scotus/), Issue 14 (Spring 2014), 35-40.
 
-# Selected Blog Posts
+### Selected Blog Posts
 
 "[Worse Regimes](http://rhunter.org/blog/2015/03/30/worse-regimes/)"
 

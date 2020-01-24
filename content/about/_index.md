@@ -17,6 +17,6 @@ draft = false
 
 I'm Rob Hunter, a resident of Washington, D.C., a member of the [_Legal Form_](https://legalform.blog) editorial collective, and a holder of a PhD in Politics from Princeton University. I use this site as a peg on which to hang my email address. I also blog on it at very irregular intervals.
 
-You can contact me by email at `jrh[at]rhunter[dot]org`. I'm also on [Twitter](https://twitter.com/jrobhunter) and [GitHub](https://github.com/jrhunter).
+You can contact me by email at `jrh at rhunter dot org`. I'm also on [Twitter](https://twitter.com/jrobhunter) and [GitHub](https://github.com/jrhunter).
 
 The source code for this website is available [here](https://github.com/jrhunter/rhunter).

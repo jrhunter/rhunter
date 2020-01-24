@@ -19,4 +19,4 @@ I'm Rob Hunter, a resident of Washington, D.C., a member of the [_Legal Form_](h
 
 You can contact me by email at `jrh at rhunter dot org`. I'm also on [Twitter](https://twitter.com/jrobhunter) and [GitHub](https://github.com/jrhunter).
 
-The source code for this website is available [here](https://github.com/jrhunter/rhunter).
+The source code for this site is available [here](https://github.com/jrhunter/rhunter).

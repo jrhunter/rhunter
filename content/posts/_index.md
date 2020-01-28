@@ -1,6 +1,6 @@
 +++
 aliases = ["posts"]
-title = "blog"
+title = "Blog"
 author = "Rob Hunter"
 tags = ["index"]
 +++

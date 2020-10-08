@@ -1,7 +1,7 @@
 ---
 title: "Webinar on Critical Theory, Law, and Contemporary Struggles"
-date: 2020-10-07T16:58:26-04:00
-lastmod: 2020-10-07T16:58:26-04:00
+date: 2020-10-08T08:00:00-04:00
+lastmod: 2020-10-08T08:00:00-04:00
 tags: []
 categories: []
 imgs: []
@@ -14,7 +14,7 @@ single: false  # display as a single page, hide navigation on bottom, like as ab
 draft: false
 ---
 
-How do critical theory and the critique of capital relate to ongoing struggles against caging, surveillance, and state violence today? I'll be speaking about these topics with attorneys Rebecca Chapman and Cooper Brinson in a [webinar](https://cldc.org/event/capitalism-and-the-constitution) hosted by the Civil Liberties Defense Center on October 8 at 6:00 PM EDT / 3:00 PM PDT. It will run for two hours, ending with a Zoom-mediated Q&A session.
+How do critical theory and the critique of capital relate to ongoing struggles against caging, surveillance, and state violence today? I'll be speaking about these topics with attorneys Rebecca Chapman and Cooper Brinson in a [webinar](https://cldc.org/event/capitalism-and-the-constitution) hosted by the Civil Liberties Defense Center today, October 8 at 6:00 PM EDT / 3:00 PM PDT. It will run for two hours, ending with a Zoom-mediated Q&A session.
 
 I've compiled a list of links that may be helpful to those who are interested in these questions and want to get their bearings. I've cast a wide net; I'm not advocating for a view here (although I do [elsewhere](https://rhunter.org/writing/)).
 
@@ -26,12 +26,12 @@ One good place to start would be the [Resources](https://legalform.blog/document
 
 You can also find a thematically-arranged overview of the posts at Legal Form [here](https://legalform.blog/archive/).
 
-I also recommend the following:
+I also recommend the following background readings:
 
 - Angela Davis, [_Women, Race, and Class_](https://bookshop.org/books/women-race-class/9780394713519) (1981)
   - An all-around classic; I've included it here because, among other things, it vividly illustrates how liberal and legalistic conceptions of rights and justice can crowd out and inhibit collective struggles for liberation, dignity, and lasting material gains.
 
-- Michel Foucault, ["The Mesh of Power"](https://www.viewpointmag.com/2012/09/12/the-mesh-of-power/) (1976)
+- Michel Foucault, "[The Mesh of Power](https://www.viewpointmag.com/2012/09/12/the-mesh-of-power/)" (1976)
   - An essay that deserves to be read more widely---one that puts the lie to simplistic interpretations of Foucault as non- or antimarxist.
 
 - Robert A Kagan, [_Adversarial Legalism_](https://bookshop.org/books/adversarial-legalism-the-american-way-of-law-second-edition/9780674238367) (2nd ed., 2019)

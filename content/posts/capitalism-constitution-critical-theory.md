@@ -24,7 +24,7 @@ One good place to start would be the [Resources](https://legalform.blog/document
 
 - E.P. Thompson, "[The Rule of Law](https://legalform.files.wordpress.com/2017/08/thompson-the-rule-of-law.pdf)"
 
-You can also find a thematically-arranged overview of the posts at Legal Form [here](https://legalform.blog/archive/).
+You can find a thematically-arranged overview of the posts at Legal Form [here](https://legalform.blog/archive/).
 
 I also recommend the following background readings:
 
@@ -38,7 +38,7 @@ I also recommend the following background readings:
   - A sober account of the distinctive features of the practice and experience of law in the U.S. Compared to many other countries, the American legal system is both more punitive and more inequitable, from pre-trial hearings to sentencing.
 
 - Issa Kohler-Hausmann, [_Misdemeanorland: Criminal Courts and Social Control in an Age of Broken Windows Policing_](https://bookshop.org/books/misdemeanorland-criminal-courts-and-social-control-in-an-age-of-broken-windows-policing/9780691196114) (2019)
-  - An unlikely complement to Kagan's book, Kohler-Hausmann's survey of lower criminal courts demonstrates that one of the primary roles of American courts is to serve as an adjunct to, and promoter of, violent forms of social control (aggressive policing, mass incarceration, and omnipresent surveillance). American criminal courts break lives on a daily basis even when they do not formally decide cases or deliver sentences.
+  - An unlikely complement to Kagan's book, Kohler-Hausmann's survey of lower criminal courts demonstrates that one of the primary roles of American courts is to serve as an adjunct to, and promoter of, violent forms of social control (aggressive policing, mass incarceration, and omnipresent surveillance). American criminal courts break lives on a daily basis---even when they do not formally decide cases or deliver sentences.
 
 - Keith E. Whittington, [_Repugnant Laws: Judicial Review of Acts of Congress from the Founding to the Present_](https://bookshop.org/books/repugnant-laws-judicial-review-of-acts-of-congress-from-the-founding-to-the-present/9780700627790) (2019)
-  - The latest book by a leading political scientist who has charted the close, occasionally antagonistic, but usually reciprocal relationships between the U.S. Supreme Court and national politicians. The Court is not a neutral arbiter of legal disputes---still less is it a haven of justice and reasoned deliberation. It is a political institution and its decisions are interventions in politics. For the purposes here, this is an important point to emphasize---at the expense of uncritical celebration of the Court (or particular justices) as a defender of individual rights.
+  - The latest book by a leading political scientist who has charted the close, occasionally antagonistic, but usually reciprocal relationships between the U.S. Supreme Court and national politicians. The Court is not a neutral arbiter of legal disputes---still less is it a haven of justice and reasoned deliberation. It is a political institution and its decisions are interventions in politics. For the purposes here, this is an important point to emphasize against uncritical celebration of the Court (or particular justices) as a defender of individual rights.

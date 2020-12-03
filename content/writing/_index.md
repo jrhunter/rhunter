@@ -65,11 +65,3 @@ draft = false
 "[Abolish the States](https://www.jacobinmag.com/2014/08/abolish-the-states/)," [*Jacobin*](https://www.jacobinmag.com/2014/08/abolish-the-states/), August 12, 2014.
 
 "[Waiting for SCOTUS](https://www.jacobinmag.com/2014/06/waiting-for-scotus/)," [*Jacobin*](https://www.jacobinmag.com/2014/06/waiting-for-scotus/), Issue 14 (Spring 2014), 35-40.
-
-### Selected Blog Posts
-
-"[Worse Regimes](http://rhunter.org/blog/2015/03/30/worse-regimes/)"
-
-"[Names Aren't Important](http://rhunter.org/blog/2013/06/19/iain-banks-1954-2013-culture-novels/)"
-
-"[Federalism Against Freedom](http://rhunter.org/blog/2013/03/18/federalism-against-freedom/)"

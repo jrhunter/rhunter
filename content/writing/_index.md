@@ -18,6 +18,8 @@ draft = false
 
 ### Peer-Reviewed
 
+"Capitalism, Depoliticization, and Climate Politics." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
+
 "[The Digital Turn and the Ethical Turn: Depoliticization in Digital Practice and Political Theory](https://www.boundary2.org/2018/08/hunter/)." [*boundary2 online*](https://www.boundary2.org/2018/08/hunter/). August 2, 2018.
 
 ### Essays and Polemics

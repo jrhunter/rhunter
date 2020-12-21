@@ -1,0 +1,58 @@
+baseURL = "https://example.com"
+title = "Rob Hunter"
+author = "Rob Hunter"
+copyright = "© 2012–2020 Rob Hunter"
+paginate = 4
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "origin"
+# 
+# [ui]
+#
+# breadcrumb_disable = "true"
+
+[params]
+  # description = "simple hugo theme"
+  featured = true
+  cssonly = false
+
+  [params.socials]
+    facebook = ""
+    twitter = "https://twitter.com/selfactingmule"
+    instagram = ""
+    youtube = ""
+    github = "https://github.com/jrhunter"
+    gitlab = ""
+    linkedin = ""
+    slack = ""
+    stackoverflow = ""
+    medium= ""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "writing"
+    name = "Writing"
+    url = "/writing/"
+    weight = 20
+
+# [taxonomies]
+#   category = "categories"
+#   tag = "tags"
+#   series = "series"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true

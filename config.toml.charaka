@@ -1,0 +1,40 @@
+baseurl = "https://rhunter.org"
+languageCode = "en"
+title = "Rob Hunter"
+theme = "charaka-hugo-theme"
+copyright = "&copy; Rob Hunter 2012–2020"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+sectionPagesMenu = "main"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        identifier = "home"
+        url = "/"
+        weight = 10
+
+[params]
+
+[author]
+  name = "Rob Hunter"
+  homepage = "https://rhunter.org"
+
+[params.highlight]
+  style = "zenburn"
+
+[params.share]
+  enabled = "false"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info"
+
+[[params.social]]
+  url = "https://github.com/jrhunter/"
+  fa_icon = "fab fa-github"
+
+[[params.social]]
+  url = "https://twitter.com/selfactingmule/"
+  fa_icon = "fab fa-twitter"

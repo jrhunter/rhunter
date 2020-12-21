@@ -2,3 +2,5 @@
 deploy
 public
 README.txt
+
+resources/_gen/

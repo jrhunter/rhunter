@@ -1,48 +1,107 @@
-baseURL = "http://rhunter.org/"
-languageCode = "en-us"
+baseURL = "https://rhunter.org"
 title = "Rob Hunter"
-theme = "hugo-notepadium"
-description = "Rob Hunter's website"
+# for smart copyright line, leave this blank and check [params.copyright]
 copyright = "© 2012–2020 Rob Hunter"
 
-buildDrafts = false
+theme = "minimo"
 
-[markup.highlight]
-codeFences = true
-noClasses = false
+logo = ""
 
-[markup.goldmark.renderer]
-unsafe = true  # enable raw HTML in Markdown
+Paginate = 5
+preserveTaxonomyNames = true
 
-[params]
-style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
-dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
-logo = ""  # if you have a logo png
-slogan = ""
-license = "<a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\">CC BY-NC-ND 4.0</a>"  # CC License
-# featured = "false"
-# cssonly = "true"
+enableRobotsTXT = true # generate robots.txt
 
-[params.math]
-enable = false  # optional: true, false. Enable globally, default: false. You can always enable math on per page.
-# use = "katex"  # option: "katex", "mathjax". default: "katex"
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
 
-[params.syntax]
-use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
-theme = ""
-darkTheme = "dracula"
-# darkTheme = "xcode-dark"  # apply this theme in dark mode
+enableEmoji = true
 
-[params.nav]
-showCategories = false       # /categories/
-showTags = false             # /tags/
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+titleCaseStyle = "Chicago"
 
-# custom navigation items
+[params.info]
+description = ""
+title404 = "There's nothing here."
 
-[[params.nav.custom]]
-title = "Writing"
-url = "/writing"
+# [params.assets]
+# favicon = "favicon.ico"
+# customCSS = ["css/custom.css"]
+# customJS = ["js/custom.js"]
+# gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
-[[params.nav.custom]]
-title = "About"
-url = "/about"
+# [params.copyright]
+# prefix = ""
+# holder = "Rob Hunter"
+# startYear = "2012"
+# suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "January 2, 2006"
+listDateFormat = "January 2, 2006"
+archiveDateFormat = "January 2"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideEntryMeta = ["page"] # boolean / array of sections
+showReadingTime = false
+showLastmod = false
+taxonomyCloudShuffle = false
+accentColor = "#800080"
+hideMainMenu = true
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+# header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about","sidebar_menu"]
+footer = ["social_menu"]
+
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+email = "jrh@rhunter.org"
+github = "jrhunter"
+twitter = "selfactingmule"
+
+[params.comments]
+enable = false
+
+# [taxonomies]
+# author = "authors"
+# category = "categories"
+# series = "series"
+# tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+# [[menu.main]]
+# name = "Writing"
+# weight = -10
+# identifier = "writing"
+# url = "/writing"
+#
+# [[menu.main]]
+# name = "About"
+# weight = -15
+# identifier = "about"
+# url = "/about"
+
+# [[menu.main]]
+# name = "RSS"
+# weight = -15
+# identifier = "rss"
+# url = "/index.xml"
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1

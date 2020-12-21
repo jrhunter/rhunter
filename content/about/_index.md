@@ -1,22 +1,26 @@
 +++
-title = "About/Contact"
+title = "About"
 aliases = ["about"]
-date = 2020-01-20T11:11:18-05:00
-lastmod = 2020-01-20T11:11:18-05:00
+# date = 2020-01-20T11:11:18-05:00
+# lastmod = 2020-01-20T11:11:18-05:00
 tags = []
 categories = []
 imgs = []
 readingTime = false  # show reading time after article date
-toc = true
+toc = false
 comments = false
 justify = false  # text-align: justify;
 single = true  # display as a single page, hide navigation on bottom, like as about page.
 license = ""  # CC License
 draft = false
+menu = ["main","sidebar"]
+weight = 5
 +++
 
 I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I am a member of the [_Legal Form_](https://legalform.blog) editorial collective. I use this site as a peg on which to hang my email address. I also blog on it at very irregular intervals.
 
 You can contact me by email at `jrh at rhunter dot org`. I'm also on [Twitter](https://twitter.com/selfactingmule) and [GitHub](https://github.com/jrhunter).
 
-The source code for this site is available [here](https://github.com/jrhunter/rhunter).
+This site is built using [Hugo](https://gohugo.io/) and [Minimo](https://github.com/MunifTanjim/minimo). The source code is available [here](https://github.com/jrhunter/rhunter).
+
+The image in the sidebar is [_Homage to the Square: Guarded_](https://www.wikiart.org/en/josef-albers/homage-to-the-square-guarded-1952), a 1952 oil painting by [Josef Albers](https://en.wikipedia.org/wiki/Josef_Albers).

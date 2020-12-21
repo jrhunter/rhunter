@@ -1,8 +1,6 @@
 +++
 title = "Writing"
 aliases = ["writing"]
-date = 2020-01-20T11:06:55-05:00
-lastmod = 2020-01-20T11:06:55-05:00
 tags = []
 categories = []
 imgs = []
@@ -13,16 +11,22 @@ justify = false  # text-align: justify;
 single = true  # display as a single page, hide navigation on bottom, like as about page.
 license = ""  # CC License
 draft = false
+menu = ["main","sidebar"]
+weight = -1
 +++
 
 
-### Peer-Reviewed
+### Publications
+
+"Marx's Critique and the Constitution of the Capitalist State." In O'Connell & Özsu (eds.), _Research Handbook on Law and Marxism_ (Elgar, forthcoming).
+
+"Critical Legal Studies and Marx's Critique: A Reappraisal." _Yale Journal of Law and the Humanities_ (forthcoming).
 
 "Capitalism, Depoliticization, and Climate Politics." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
 
 "[The Digital Turn and the Ethical Turn: Depoliticization in Digital Practice and Political Theory](https://www.boundary2.org/2018/08/hunter/)." [*boundary2 online*](https://www.boundary2.org/2018/08/hunter/). August 2, 2018.
 
-### Essays and Polemics
+### Squibs and Polemics
 
 (With [Nate Holdren](https://www.drake.edu/lps/facultystaff/nateholdren/)) "[No Bases, No Superstructures: Against Legal Economism](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/)." [_Legal Form_](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/). January 15, 2020.
 

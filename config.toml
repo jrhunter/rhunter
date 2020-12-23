@@ -106,3 +106,9 @@ page = "/:slug/"
 lang = "en"
 languageName = "English"
 weight = 1
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2

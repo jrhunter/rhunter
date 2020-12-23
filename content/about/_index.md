@@ -17,10 +17,18 @@ menu = ["main","sidebar"]
 weight = 5
 +++
 
-I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I am a member of the [_Legal Form_](https://legalform.blog) editorial collective. I use this site as a peg on which to hang my email address. I also blog on it at very irregular intervals.
 
-You can contact me by email at `jrh at rhunter dot org`. I'm also on [Twitter](https://twitter.com/selfactingmule) and [GitHub](https://github.com/jrhunter).
+I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I hold a Ph.D. in Poliitcs from Princeton University, and I am a member of the [Legal Form](https://legalform.blog) editorial collective.
+
+You can contact me via [email](mailto:jrh@rhunter.org) or [Twitter](https://twitter.com/selfactingmule).
 
 This site is built using [Hugo](https://gohugo.io/) and [Minimo](https://github.com/MunifTanjim/minimo). The source code is available [here](https://github.com/jrhunter/rhunter).
 
 The image in the sidebar is [_Homage to the Square: Guarded_](https://www.wikiart.org/en/josef-albers/homage-to-the-square-guarded-1952), a 1952 oil painting by [Josef Albers](https://en.wikipedia.org/wiki/Josef_Albers).
+<!--
+
+I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I am a member of the [Legal Form](https://legalform.blog) editorial collective. I use this site as a peg on which to hang [my email address](mailto:jrh@rhunter.org). I also blog on it at very irregular intervals.
+
+This site is built using [Hugo](https://gohugo.io/) and [Minimo](https://github.com/MunifTanjim/minimo). The source code is available [here](https://github.com/jrhunter/rhunter).
+
+The image in the sidebar is [_Homage to the Square: Guarded_](https://www.wikiart.org/en/josef-albers/homage-to-the-square-guarded-1952), a 1952 oil painting by [Josef Albers](https://en.wikipedia.org/wiki/Josef_Albers). -->

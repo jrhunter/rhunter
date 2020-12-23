@@ -1,10 +1,8 @@
 +++
-aliases = ["posts"]
+aliases = ["blog"]
 title = "Blog"
 author = "Rob Hunter"
 # tags = ["index"]
 menu = ["main","sidebar"]
-weight = 2
+weight = 3
 +++
-
-Get updates via [RSS](https://rhunter.org/index.xml).

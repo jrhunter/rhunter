@@ -18,9 +18,9 @@ How do critical theory and the critique of capital relate to ongoing struggles a
 
 I've compiled a list of links that may be helpful to those who are interested in these questions and want to get their bearings. I've cast a wide net; I'm less interested in advocating for a particular view than I am in providing a glimpse of the breadth and diversity of critical theory as it relates to law, courts, and prisons---and the struggles in and against them.
 
-#### _Legal Form_
+#### Legal Form
 
-One good place to start would be the [Resources](https://legalform.blog/documents/) page at [_Legal Form_](https://legalform.blog/). It's pretty extensive; if you want a more narrowly-focused introduction, try the following:
+One good place to start would be the [Resources](https://legalform.blog/documents/) page at [Legal Form](https://legalform.blog/). It's pretty extensive; if you want a more narrowly-focused introduction, try the following:
 
 - Nate Holdren and Eric Tucker, "[Marxist Theories of Law Past and Present](https://legalform.files.wordpress.com/2020/09/holdren-and-tucker-2020-1.pdf)"
 
@@ -28,7 +28,7 @@ One good place to start would be the [Resources](https://legalform.blog/document
 
 You can find a thematically-arranged overview of the posts at _Legal Form_ [here](https://legalform.blog/archive/).
 
-If time permits, I plan to talk about one way of categorizing different critical approaches to law and the state---specifically, (1) class power; (2) struggle (2); and (3) mediation. I co-wrote a [short essay](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/) on this scheme for _Legal Form_, which you can read for further exploration of those distinctions. Categorizations are always imperfect, of course; and they often impose a sense of tidiness and orderliness that isn't really there. Still, I think it's a useful way to initially approach a very big and contradictory world of texts, traditions, and debates.
+If time permits, I plan to talk about one way of categorizing different critical approaches to law and the state---specifically, (1) class power; (2) struggle (2); and (3) mediation. I co-wrote a [short essay](https://legalform.blog/2020/01/15/no-bases-no-superstructures-against-legal-economism-nate-holdren-and-rob-hunter/) on this scheme for Legal Form, which you can read for further exploration of those distinctions. Categorizations are always imperfect, of course; and they often impose a sense of tidiness and orderliness that isn't really there. Still, I think it's a useful way to initially approach a very big and contradictory world of texts, traditions, and debates.
 
 #### Theory and History
 

@@ -40,12 +40,13 @@ title404 = "There's nothing here."
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "January 2, 2006"
-listDateFormat = "January 2, 2006"
-archiveDateFormat = "January 2"
+listDateFormat = "Jan 2, 2006"
+archiveDateFormat = "Jan 2"
 hideEntryNavigation = ["page"] # boolean / array of sections
 hideEntryMeta = ["page"] # boolean / array of sections
 showReadingTime = false
 showLastmod = false
+disableToc = "false"
 taxonomyCloudShuffle = false
 accentColor = "#800080"
 hideMainMenu = true

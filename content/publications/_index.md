@@ -26,6 +26,4 @@ weight = 1
 
 ## Edited Volumes
 
-"'A Certain Shadowy Totality': The Search for the Material Constitution of the United States." In Goldoni \& Wilkinson (eds.), _Research Handbook on the Material Constitution_ (Cambridge University Press, forthcoming).
-
 "Marx's Critique and the Constitution of the Capitalist State." In O'Connell & Özsu (eds.), _Research Handbook on Law and Marxism_ (Edward Elgar, forthcoming).

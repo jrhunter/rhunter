@@ -14,11 +14,11 @@ single = true  # display as a single page, hide navigation on bottom, like as ab
 license = ""  # CC License
 draft = false
 menu = ["main","sidebar"]
-weight = 5
+weight = 9
 +++
 
 
-I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I hold a Ph.D. in Poliitcs from Princeton University, and I am a member of the [Legal Form](https://legalform.blog) editorial collective.
+I'm interested in the critique of law and the state, especially as a contribution to the critique of political economy (understood as a critical theory of our inverted and topsy-turvy social world). I hold a Ph.D. in Politics from Princeton University, and I am a member of the [Legal Form](https://legalform.blog) editorial collective.
 
 You can contact me via [email](mailto:jrh@rhunter.org) or [Twitter](https://twitter.com/selfactingmule).
 

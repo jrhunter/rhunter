@@ -4,5 +4,5 @@ title = "Blog"
 author = "Rob Hunter"
 # tags = ["index"]
 menu = ["main","sidebar"]
-weight = 3
+weight = 5
 +++

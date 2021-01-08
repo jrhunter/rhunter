@@ -9,7 +9,7 @@ single = true  # display as a single page, hide navigation on bottom, like as ab
 license = ""  # CC License
 draft = false
 menu = ["main","sidebar"]
-weight = 2
+weight = 3
 +++
 
 ## Articles

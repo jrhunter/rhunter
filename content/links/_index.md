@@ -14,7 +14,7 @@ single = true  # display as a single page, hide navigation on bottom, like as ab
 license = ""  # CC License
 draft = false
 menu = ["main","sidebar"]
-weight = 6
+weight = 11
 +++
 
 [_Brooklyn Rail_](https://brooklynrail.org/)

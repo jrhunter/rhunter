@@ -21,6 +21,8 @@ weight = 11
 
 [_Chuǎng_](http://chuangcn.org/)
 
+[Communist Research Cluster](https://communistresearchcluster.wordpress.com/readers/)
+
 [Communists in Situ](https://cominsitu.wordpress.com/)
 
 [Conference of Socialist Economists](https://www.cseweb.org.uk/)

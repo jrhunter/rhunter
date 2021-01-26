@@ -14,12 +14,22 @@ single: false  # display as a single page, hide navigation on bottom, like as ab
 draft: true
 ---
 
-<!-- TOC -->
+<!--
 
-- [Recommended Reading](#recommended-reading)
-- [Notes](#notes)
+notes
 
-<!-- /TOC -->
+capitalism is historically unique because of self-expanding value
+other theories of class society etc. are just ersatzes of bourgeois social thought
+
+Postone on production vs. Uno school on circulation
+
+my coinage: "labor bears the stamp of the value-form"
+
+polarity, not duality, between essence and appearance
+
+from Mattick, Jr.: discussion of a particular concept varies depending on whether you're talking about its essence or its appearance
+
+-->
 
 This post is an introduction to value-form theory (VFT) and related tendencies in critical theory and the critique of political economy. It is meant to be a guide for the perplexed and curious, but it is also an opinionated and selective engagement with not one but several bodies of work. I should point out that I think that the term "value-form theory" is something of a misnomer. Few theorists who engage with the critique of political economy do so by focusing on value to the exclusion of all other determinations of capitalism. For this reason, I think it would better to use the phrase "social form theory." Most of those who are categorized as "value-form theorists" agree that Marx's critique of political economy is a _social form theory_.[^da61] (I will use the term "phrase" when no other seems appropriate, but let me emphasize that the narrowness suggested by the phrase fails to reflect the diversity and breadth of the authors and traditions to which it is often used to refer.)
 

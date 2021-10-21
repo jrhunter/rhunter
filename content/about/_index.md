@@ -18,9 +18,7 @@ weight = 9
 +++
 
 
-I'm interested in the critique of law and the state, both as a contribution to the critique of political economy and as part of a broader critical theory of our inverted and topsy-turvy social world. I hold a Ph.D. in Politics from Princeton University, and I am a member of the [Legal Form](https://legalform.blog) editorial collective.
-
-You can contact me via [email](mailto:jrh@rhunter.org) or [Twitter](https://twitter.com/selfactingmule).
+I'm interested in the critique of law and the state, both as a contribution to the critique of political economy and as part of a broader critical theory of our inverted and topsy-turvy social world.
 
 This site is built using [Hugo](https://gohugo.io/) and [Minimo](https://github.com/MunifTanjim/minimo). The source code is available [here](https://github.com/jrhunter/rhunter).
 

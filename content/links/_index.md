@@ -29,13 +29,17 @@ weight = 11
 
 [_Endnotes_](https://endnotes.org.uk/)
 
+[Historical Materialism](https://www.historicalmaterialism.org/)
+
 [Kirstin Munro](http://kirstinmunro.com/)
 
 [_Labor Notes_](https://www.labornotes.org/)
 
 [Legal Form](https://legalform.blog/)
 
-[_Mediations_](https://mediationsjournal.org/)
+[libcom.org](https://libcom.org/)
+
+[Marxists Internet Archive](https://www.marxists.org/)
 
 [Michael Heinrich](http://www.oekonomiekritik.de/)
 
@@ -44,6 +48,8 @@ weight = 11
 [Notes on a Theory…](https://notesonatheory.wordpress.com/)
 
 [Organizing Work](https://organizing.work/)
+
+[Radical Philosophy](https://www.radicalphilosophy.com/)
 
 [Reel Abstractions](https://www.patreon.com/reelabstractions)
 
@@ -56,7 +62,5 @@ weight = 11
 [_South Atlantic Quarterly_](https://read.dukeupress.edu/south-atlantic-quarterly)
 
 [reificationofpersonsandpersonificationofthings](https://reificationofpersonsandpersonificationofthings.wordpress.com/)
-
-[Value Thing](https://value-thing.github.io/)
 
 [_Viewpoint Magazine_](https://viewpointmag.com/)

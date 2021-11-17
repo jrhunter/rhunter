@@ -29,7 +29,7 @@ weight = 11
 
 [_Endnotes_](https://endnotes.org.uk/)
 
-[Historical Materialism](https://www.historicalmaterialism.org/)
+[_Historical Materialism_](https://www.historicalmaterialism.org/)
 
 [Kirstin Munro](http://kirstinmunro.com/)
 
@@ -49,7 +49,7 @@ weight = 11
 
 [Organizing Work](https://organizing.work/)
 
-[Radical Philosophy](https://www.radicalphilosophy.com/)
+[_Radical Philosophy_](https://www.radicalphilosophy.com/)
 
 [Reel Abstractions](https://www.patreon.com/reelabstractions)
 

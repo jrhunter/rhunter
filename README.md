@@ -1,6 +1,6 @@
 # rhunter.org source
 
-This is the [Hugo](https://gohugo.io/) source for [rhunter.org](https://rhunter.org), currently using the [Notepadium](https://themes.gohugo.io/hugo-notepadium/) theme.
+This is the [Hugo](https://gohugo.io/) source for [rhunter.org](https://rhunter.org), currently using the [Minimo](https://github.com/MunifTanjim/minimo) theme.
 
 I use [`SSH` and `rsync`](https://gohugo.io/hosting-and-deployment/deployment-with-rsync/) to deploy the site to [NFSN](https://www.nearlyfreespeech.net/) using the following `bash` script:
 

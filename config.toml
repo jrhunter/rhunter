@@ -21,6 +21,9 @@ enableEmoji = true
 defaultContentLanguage = "en"
 titleCaseStyle = "Chicago"
 
+# Ignore errors related to embedding Twitter links---hopefully not forever
+ignoreErrors = ["error-remote-getjson"]
+
 [params.info]
 description = ""
 title404 = "There's nothing here."

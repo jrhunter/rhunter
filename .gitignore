@@ -6,3 +6,5 @@ README.txt
 resources/_gen/
 
 content/blog/
+
+.hugo_build.lock

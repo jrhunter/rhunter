@@ -18,7 +18,7 @@ weight = 1
 
 ## Articles
 
-"Capitalism, Depoliticization, and Climate Politics." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
+"[Capitalism, Depoliticization, and Climate Politics](https://www.dropbox.com/s/3t54nqosyzv9tw8/hunter-2021-PREPRINT.pdf?dl=0)." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
 
 "[Critical Legal Studies and Marx's Critique: A Reappraisal](https://digitalcommons.law.yale.edu/yjlh/vol31/iss2/7/)." _Yale Journal of Law and the Humanities_, Vol. 31, No. 2 (2021), 389--412.
 

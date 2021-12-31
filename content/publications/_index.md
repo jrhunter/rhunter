@@ -28,4 +28,4 @@ weight = 1
 
 "'A Certain Shadowy Totality': In Search of the Material Constitution of the United States." In Goldoni & Wilkinson (eds.), _Cambridge Handbook on the Material Constitution_ (Cambridge University Press, forthcoming).
 
-"Marx's Critique and the Constitution of the Capitalist State." In O'Connell & Özsu (eds.), _Research Handbook on Law and Marxism_ (Edward Elgar, forthcoming).
+"Marx's Critique and the Constitution of the Capitalist State." In O'Connell & Özsu (eds.), [_Research Handbook on Law and Marxism_](https://www.e-elgar.com/shop/usd/research-handbook-on-law-and-marxism-9781788119856.html) (Edward Elgar, 2021), 190--208.

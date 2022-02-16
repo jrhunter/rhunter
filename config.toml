@@ -1,7 +1,8 @@
 baseURL = "https://rhunter.org"
 title = "Rob Hunter"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = "© 2012–2021 Rob Hunter"
+#copyright = "⊜ 2012–2022 Rob Hunter"
+copyright = "© 2012–2022 Rob Hunter"
 
 theme = "minimo"
 
@@ -35,7 +36,7 @@ title404 = "There's nothing here."
 # gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 # [params.copyright]
-# prefix = ""
+# prefix = "⊜"
 # holder = "Rob Hunter"
 # startYear = "2012"
 # suffix = ""

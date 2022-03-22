@@ -20,7 +20,7 @@ weight = 1
 
 "[Capitalism, Depoliticization, and Climate Politics](https://www.dropbox.com/s/3t54nqosyzv9tw8/hunter-2021-PREPRINT.pdf?dl=0)." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
 
-"[Critical Legal Studies and Marx's Critique: A Reappraisal](https://digitalcommons.law.yale.edu/yjlh/vol31/iss2/7/)." _Yale Journal of Law and the Humanities_, Vol. 31, No. 2 (2021), 389--412.
+"[Critical Legal Studies and Marx's Critique: A Reappraisal](https://openyls.law.yale.edu/handle/20.500.13051/7578)." _Yale Journal of Law and the Humanities_, Vol. 31, No. 2 (2021), 389--412.
 
 "[The Digital Turn and the Ethical Turn: Depoliticization in Digital Practice and Political Theory](https://www.boundary2.org/2018/08/hunter/)." [_boundary2online_](https://www.boundary2.org/2018/08/hunter/). August 2, 2018.
 

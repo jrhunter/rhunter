@@ -14,6 +14,8 @@ weight = 3
 
 ## Articles
 
+"[The End of _Roe_: The Constitutionalization of Politics and Its Consequences](https://brooklynrail.org/2022/05/field-notes/The-End-of-Roe)." The _Brooklyn Rail_, June 2022.
+
 "[If the US supreme court upholds the Muslim ban, we will need civil resistance](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance)." [The _Guardian_](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance), June 28, 2017.
 
 "[We don't need Clinton to go 'onward together'. Fight Trump in other ways](https://www.theguardian.com/commentisfree/2017/may/18/we-dont-need-clinton-to-go-onward-together-fight-trump-in-other-ways)." [The _Guardian_](https://www.theguardian.com/commentisfree/2017/may/18/we-dont-need-clinton-to-go-onward-together-fight-trump-in-other-ways), May 18, 2017.

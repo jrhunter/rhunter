@@ -7,4 +7,6 @@ resources/_gen/
 
 content/blog/
 
+static/
+
 .hugo_build.lock

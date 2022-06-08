@@ -18,7 +18,7 @@ weight = 1
 
 ## Articles
 
-"[Capitalism, Depoliticization, and Climate Politics](https://www.dropbox.com/s/3t54nqosyzv9tw8/hunter-2021-PREPRINT.pdf?dl=0)." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
+"[Capitalism, Depoliticization, and Climate Politics](/pdfs/hunter-2021-PREPRINT.pdf)." _Science & Society_, Vol. 85, No. 2 (April 2021), 184--191.
 
 "[Critical Legal Studies and Marx's Critique: A Reappraisal](https://openyls.law.yale.edu/handle/20.500.13051/7578)." _Yale Journal of Law and the Humanities_, Vol. 31, No. 2 (2021), 389--412.
 
@@ -26,6 +26,6 @@ weight = 1
 
 ## Chapters
 
-"'A Certain Shadowy Totality': In Search of the Material Constitution of the United States." In Goldoni & Wilkinson (eds.), _Cambridge Handbook on the Material Constitution_ (Cambridge University Press, forthcoming).
+"['A Certain Shadowy Totality': In Search of the Material Constitution of the United States](/pdfs/Hunter-material-constitution-US-DRAFT-20211006.pdf)." In Goldoni & Wilkinson (eds.), _Cambridge Handbook on the Material Constitution_ (Cambridge University Press, forthcoming).
 
-"[Marx's Critique and the Constitution of the Capitalist State](https://www.dropbox.com/s/hm36xp9w1ptwud2/Hunter-Marxs-critique-constitution-capitalist-state-PREPRINT.pdf?dl=0)." In O'Connell & Özsu (eds.), [_Research Handbook on Law and Marxism_](https://www.e-elgar.com/shop/usd/research-handbook-on-law-and-marxism-9781788119856.html) (Edward Elgar, 2021), 190--208.
+"[Marx's Critique and the Constitution of the Capitalist State](/pdfs/Hunter-Marxs-critique-constitution-capitalist-state-PREPRINT.pdf)." In O'Connell & Özsu (eds.), [_Research Handbook on Law and Marxism_](https://www.e-elgar.com/shop/usd/research-handbook-on-law-and-marxism-9781788119856.html) (Edward Elgar, 2021), 190--208.

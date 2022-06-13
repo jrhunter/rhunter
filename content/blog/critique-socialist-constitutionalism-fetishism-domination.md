@@ -116,7 +116,7 @@ If, by saying that an emancipated society will have a constitution, we are merel
 
 [^b0f5]: On the state as the political form of appearance of society see Werner Bonefeld, "[On the State as Political Form of Society](https://www.academia.edu/46307092/Marxist_Approaches_to_the_State)," _Science \& Society_ 85, no. 2 (April 2021), 177--184, DOI: [10.1521/siso.2021.85.2.177](https://guilfordjournals.com/doi/10.1521/siso.2021.85.2.177).
 
-[^5af3]: These are far from my final considered judgments on the matter. I welcome criticism and feedback, and I might make revisions in the (entirely likely) that my mind is changed about something. The version history of this essay may be found here.
+[^5af3]: These are far from my final considered judgments on the matter. I welcome criticism and feedback, and I might make revisions in the (entirely likely) that my mind is changed about something. The annotated version history of this essay may be found [here](https://github.com/jrhunter/rhunter/commits/master/content/blog/critique-socialist-constitutionalism-fetishism-domination.md).
 
 [^ef91]: Karl Marx, "[Contribution to the Critique of Hegel's Philosophy of Right](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)" \[1843\], in [_The Marx-Engels Reader_](https://wwnorton.com/books/9780393090406), ed. Robert Tucker (New York: Norton, 1978), 21.
 

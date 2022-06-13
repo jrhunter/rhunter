@@ -5,7 +5,8 @@ README.txt
 
 resources/_gen/
 
-content/blog/
+content/blog/**
+!content/blog/critique-socialist-constitutionalism-fetishism-domination.md
 
 static/
 

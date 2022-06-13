@@ -49,6 +49,8 @@ weight = 11
 
 [Organizing Work](https://organizing.work/)
 
+[Patrick Murray](https://www.creighton.edu/campus-directory/murray-john-patrick)
+
 [_Radical Philosophy_](https://www.radicalphilosophy.com/)
 
 [Reel Abstractions](https://www.patreon.com/reelabstractions)
@@ -62,5 +64,7 @@ weight = 11
 [_South Atlantic Quarterly_](https://read.dukeupress.edu/south-atlantic-quarterly)
 
 [reificationofpersonsandpersonificationofthings](https://reificationofpersonsandpersonificationofthings.wordpress.com/)
+
+[Tony Smith](https://www.philrs.iastate.edu/directory/tony-smith/)
 
 [_Viewpoint Magazine_](https://viewpointmag.com/)

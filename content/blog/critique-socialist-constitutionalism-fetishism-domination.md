@@ -112,7 +112,7 @@ If, by saying that an emancipated society will have a constitution, we are merel
 
 [^b0f5]: On the state as the political form of appearance of society see Werner Bonefeld, "[On the State as Political Form of Society](https://www.academia.edu/46307092/Marxist_Approaches_to_the_State)," _Science \& Society_ 85, no. 2 (April 2021), 177--184, DOI: [10.1521/siso.2021.85.2.177](https://guilfordjournals.com/doi/10.1521/siso.2021.85.2.177).
 
-[^5af3]: These are far from my final considered judgments on the matter. I welcome criticism and feedback, and I might make revisions in the (entirely likely) that my mind is changed about something. The annotated version history of this essay may be found [here](https://github.com/jrhunter/rhunter/commits/master/content/blog/critique-socialist-constitutionalism-fetishism-domination.md).
+[^5af3]: These are far from my final considered judgments on the matter. I welcome criticism and feedback, and I might make revisions in the (entirely likely) event that my mind is changed about something. The annotated version history of this essay may be found [here](https://github.com/jrhunter/rhunter/commits/master/content/blog/critique-socialist-constitutionalism-fetishism-domination.md).
 
 [^ef91]: Karl Marx, "[Contribution to the Critique of Hegel's Philosophy of Right](https://www.marxists.org/archive/marx/works/1843/critique-hpr/index.htm)" \[1843\], in [_The Marx-Engels Reader_](https://wwnorton.com/books/9780393090406), ed. Robert Tucker (New York: Norton, 1978), 21.
 
@@ -134,4 +134,4 @@ If, by saying that an emancipated society will have a constitution, we are merel
 
 [^023f]: William Clare Roberts, "[Marx's Social Republic: Political not Metaphysical](https://www.researchgate.net/profile/William-Roberts-33/publication/334159032_Marx's_Social_Republic_Political_not_Metaphysical/links/61bcd4e34b318a6970eacff3/Marxs-Social-Republic-Political-not-Metaphysical.pdf)," _Historical Materialism_ 27, no. 2 (2019), 41--58, DOI: [10.1163/1569206x-00001870](https://doi.org/10.1163/1569206X-00001870).
 
-[^932a]: Roberts, "Marx's Social Republic," 55, 54.
+[^932a]: Roberts, "[Marx's Social Republic](https://www.researchgate.net/profile/William-Roberts-33/publication/334159032_Marx's_Social_Republic_Political_not_Metaphysical/links/61bcd4e34b318a6970eacff3/Marxs-Social-Republic-Political-not-Metaphysical.pdf)," 55, 54.

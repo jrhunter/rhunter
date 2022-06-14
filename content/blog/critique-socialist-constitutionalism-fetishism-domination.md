@@ -14,10 +14,6 @@ single: true
 draft: false
 ---
 
-![Sándor Bortnyik, Asztali csendélet, 1924](/images/sandor-bortnyik-asztali-csendelet-1924.png)
-
-_Sándor Bortnyik,_ [Asztali csendélet (Still life with table)](https://www.wikiart.org/en/sandor-bortnyik/asztali-csend-let-1924)_, 1924_
-
 # I.
 
 Modern constitutionalism is not a historical achievement that an emancipated society should retain.[^5af3] The practice of constitutionalism cannot be abstracted from its historical context in order to serve as a model for how this or that community should be organized. This is especially the case when it comes to envisioning a society that has been substantially emancipated from the domination, compulsion, and exploitation that are inherent to capitalism. In what follows I offer some reasons for doubting that a society in which "[the free development of each is the condition for the free development of all](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm)" should or could be a constitutional polity sharing features with currently existing liberal democracies.

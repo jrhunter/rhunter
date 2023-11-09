@@ -35,7 +35,7 @@ weight = 11
 
 [_Labor Notes_](https://www.labornotes.org/)
 
-[Legal Form](https://legalform.blog/)
+[_Legal Form_](https://legalform.blog/)
 
 [libcom.org](https://libcom.org/)
 
@@ -57,11 +57,11 @@ weight = 11
 
 [Simon Clarke](http://homepages.warwick.ac.uk/~syrbe/Publications.html)
 
-[_Science \& Society_](https://www.scienceandsociety.com/)
-
 [The Socialist Planning Blog](http://socialistplanning.org/)
 
 [_South Atlantic Quarterly_](https://read.dukeupress.edu/south-atlantic-quarterly)
+
+[_Spectre_](https://spectrejournal.com/)
 
 [reificationofpersonsandpersonificationofthings](https://reificationofpersonsandpersonificationofthings.wordpress.com/)
 

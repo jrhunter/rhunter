@@ -14,6 +14,8 @@ weight = 3
 
 ## Articles
 
+"[Biden Doesn't Care If You Die, But Ideally Your Friends Would](https://www.pestemag.com/featured-posts/tktk-g8pk6)." _Peste_, October 17, 2022.
+
 "[The End of _Roe_: The Constitutionalization of Politics and Its Consequences](https://brooklynrail.org/2022/05/field-notes/The-End-of-Roe)." The _Brooklyn Rail_, June 2022.
 
 "[If the US supreme court upholds the Muslim ban, we will need civil resistance](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance)." [The _Guardian_](https://www.theguardian.com/commentisfree/2017/jun/28/us-supreme-court-muslim-ban-civil-resistance), June 28, 2017.
